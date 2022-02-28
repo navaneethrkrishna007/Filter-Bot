@@ -11,7 +11,7 @@ Alternatively, [find me on telegram](https://t.me/D_ar_k_Angel)! (Keep all suppo
 
 ### Easy Way to Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/ID-Bot-V1/tree/main"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" />
 
 ## HOW TO DEPLOY YOUTUBE TUTORIAL
 
